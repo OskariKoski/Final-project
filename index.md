@@ -31,6 +31,7 @@ Links
 
 Do you want to [see something fun][a fun place]?
 Well, do I have [the website for you][another fun place]!
+
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
 
@@ -40,6 +41,7 @@ Images
 
 ![Black cat][Black]
 ![Orange cat][Orange]
+
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
@@ -72,23 +74,20 @@ Lists
 * Dahlia (_Coreopsideae Dahlia_)
 
 * Calculus
- * A professor
- * Has no hair
- * Often wears green
+  * A professor
+  * Has no hair
+  * Often wears green
 * Castafiore
- * An opera singer
- * Has white hair
- * Is possibly mentally unwell
+  * An opera singer
+  * Has white hair
+  * Is possibly mentally unwell
 
 1. Cut the cheese
-
- Make sure that the cheese is cut into little triangles.
+   * Make sure that the cheese is cut into little triangles.
 
 2. Slice the tomatoes
-   
- Be careful when holding the knife.
- 
- For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+   * Be careful when holding the knife.
+   * For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 Paragraphs
 
